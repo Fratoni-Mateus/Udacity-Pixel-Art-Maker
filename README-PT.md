@@ -3,7 +3,7 @@
 Um website simples para criar arte em estilo 8-bits.
 
 A ideia deste projeto é de aprofundar e praticar os conhecimentos adquiridos durante o curso da plataforma Udacity *Intro to Programming Nanodegree*.
-Embora o site aparente ser simples, nele foram aplicados conceitos importantes.
+Embora o site aparente ser simples, nele foi aplicados conceitos importantes de desenvolvimento *front-end*.
 
 
 ## Tecnologias utilizadas

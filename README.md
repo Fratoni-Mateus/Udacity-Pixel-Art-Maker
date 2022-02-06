@@ -3,7 +3,7 @@
 A simple website to create 8-bits style pixel art.
 
 The idea of this project is to deepen and practice the knowledge acquired during the Udacity's course Intro to Programming Nanodegree.
-Although the site seems simple, some important fundamentals were applied to it.
+Although the site seems simple, important front-end web delevopment fundamentals were applied to it.
 
 
 ## Technologies used
